@@ -1,0 +1,19 @@
+const config = {
+	useTabs: true,
+	semi: true,
+	singleQuote: false,
+	trailingComma: "es5",
+	bracketSpacing: true,
+	arrowParens: "always",
+	overrides: [
+		{
+			files: "*.astro",
+			options: {
+				parser: "astro",
+			},
+		},
+	],
+	plugins: ["prettier-plugin-astro", "prettier-plugin-tailwindcss"],
+};
+
+export default config;
