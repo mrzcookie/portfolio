@@ -1,5 +1,9 @@
 ---
+import "@fontsource/geist";
+import "@fontsource/geist-mono";
+
 import "@/styles/global.css";
+import Header from "@/components/Header.astro";
 
 const { title, description } = Astro.props;
 ---
@@ -12,7 +16,10 @@ const { title, description } = Astro.props;
 		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 		<title>{title}</title>
 	</head>
-	<body>
+	<body
+		class="font-geist m-auto flex max-w-7xl flex-col bg-neutral-900 py-8 text-white"
+	>
+		<Header />
 		<slot />
 	</body>
 </html>
