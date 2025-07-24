@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"duration": "April - June 2022",
+		"company": "Weaken",
+		"title": "Lead Developer",
+		"description": "Led the development and technical direction of the Weaken Minecraft server, overseeing feature implementation, code quality, and team collaboration."
+	},
+	{
+		"id": 2,
+		"duration": "June - August 2022",
+		"company": "Flicked",
+		"title": "Owner",
+		"description": "Managed all aspects of server infrastructure and development, including team leadership, project planning, and ensuring optimal server performance."
+	},
+	{
+		"id": 3,
+		"duration": "June - August 2023",
+		"company": "ArmorUp",
+		"title": "Manager",
+		"description": "Supervised server infrastructure and coordinated development efforts, focusing on stability, scalability, and efficient project execution."
+	},
+	{
+		"id": 4,
+		"duration": "April - July 2024",
+		"company": "Siegelands",
+		"title": "Manager",
+		"description": "Oversaw server infrastructure and led the development team, ensuring smooth operations and successful implementation of new features."
+	}
+]
