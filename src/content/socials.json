@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"icon": {
+			"type": "lucide",
+			"name": "github"
+		},
+		"text": "GitHub",
+		"link": "https://github.com/mrzcookie"
+	},
+	{
+		"id": 2,
+		"icon": {
+			"type": "simple-icons",
+			"name": "discord"
+		},
+		"text": "Discord",
+		"link": "https://discord.com/users/293074588970254337"
+	}
+]
